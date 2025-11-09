@@ -30,6 +30,7 @@ BMI-CALCULATOR/
 ├─ images
 └─ script.js
 
-
-
 ---
+📬 Author
+Sethupathy V  
+GitHub: https://github.com/sethupathy03

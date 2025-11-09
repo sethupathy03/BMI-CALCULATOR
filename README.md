@@ -1,2 +1,38 @@
-# BMI-CALCULATOR
-Simple BMI Calculator with clean UI using HTML, CSS, JS
+# ✅ BMI-CALCULATOR
+
+A simple **Body Mass Index calculator** that takes height and weight as input and displays BMI result with category (Underweight, Normal, Overweight, Obese). Built using HTML, CSS, and JavaScript.
+
+---
+
+## 🚀 Features
+✔ User enters height & weight  
+✔ Instant BMI calculation  
+✔ Category display  
+✔ Clean UI  
+✔ Mobile responsive
+
+---
+
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📸 Screenshots
+(Add screenshot or GIF)
+
+---
+
+## 📂 Folder Structure
+
+
+BMI-CALCULATOR/
+├─ index.html
+├─ style.css
+└─ script.js
+
+
+
+---

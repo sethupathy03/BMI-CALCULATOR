@@ -27,6 +27,7 @@ A simple **Body Mass Index calculator** that takes height and weight as input an
 BMI-CALCULATOR/
 ├─ index.html
 ├─ style.css
+├─ images
 └─ script.js
 
 

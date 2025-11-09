@@ -20,10 +20,6 @@ A simple **Body Mass Index calculator** that takes height and weight as input an
 
 ---
 
-## 📸 Screenshots
-(Add screenshot or GIF)
-
----
 
 ## 📂 Folder Structure
 
